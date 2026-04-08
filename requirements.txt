@@ -1,0 +1,8 @@
+Django
+Django REST framework
+django-cors-headers
+PyJWT
+psycopg2
+pytest
+pytest-django
+coverage
